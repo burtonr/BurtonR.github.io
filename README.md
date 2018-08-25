@@ -1,6 +1,6 @@
-#BurtonR
+# BurtonR
 
-### The personal website of Burton Rheutan
+## The personal website of Burton Rheutan
 
 Practicing Software Engineer
 
