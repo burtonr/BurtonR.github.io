@@ -1,0 +1,21 @@
+.hero-image {
+    margin: auto;
+    padding-bottom: 50px;
+}
+
+.service-logo {
+    color: #222222;
+}
+
+.timeline>li {
+    margin-bottom: 50px;
+    min-height: 100px;
+}
+
+section h3.timeline-subtitle {
+    text-transform: none;
+    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 400;
+}
